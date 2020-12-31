@@ -4,9 +4,9 @@ Esta es una aplicación de node que salió diferente al curso,porque la primera 
 
 Recuerden ejecutar npm install para las librerías
 
-'''
+```
 npm install
-'''
+```
 
 ## Ejemplo:
 ```
